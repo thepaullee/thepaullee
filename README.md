@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<h2>Hello! 👋, I'm <a href="https://stanleylim.me/">Paul</a></h2>
+<h2>Hello! 👋, I'm Paul</h2>
 <p>I'm newly incoming as a technical consultant <strong><a href="https://alloy.ai/">@Alloy.ai</a></strong> and soon to be based in Vancouver, CA 🏞. Still building out this readme so please bare with me if it seems barebones for the time being.</p>
 <p><a href="https://www.linkedin.com/in/paul-l/">
  <img src="https://img.shields.io/badge/Paul%20Lee-blue?style=plastic&logo=linkedin&labelColor=blue" alt="LinkedIn Badge"></a>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 
 <!--
