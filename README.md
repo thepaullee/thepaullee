@@ -1,6 +1,6 @@
 <h2>Hello! 👋, I'm Paul</h2>
 
-<p>I am Solutions Engineer at <strong><a href="https://diligent.com/">Diligent</a></strong> and based in Vancouver, CA 🏞. <br/>Still building out this readme so please bare with me if it seems barebones for the time being.</p>
+<p>I am a Solutions Engineer at <strong><a href="https://diligent.com/">Diligent</a></strong> and based in Vancouver, CA 🏞. <br/>Still building out this readme so please bare with me if it seems barebones for the time being.</p>
 <p><a href="https://www.linkedin.com/in/paul-l/">
  <img src="https://img.shields.io/badge/Paul%20Lee-blue?style=plastic&logo=linkedin&labelColor=blue" alt="LinkedIn Badge"></a>
 
